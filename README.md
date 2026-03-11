@@ -74,7 +74,7 @@ java -cp 01-basics/01-variables-datatypes Main
 - [ ] Implement every major data structure from scratch
 - [ ] Solve 150+ LeetCode problems
 - [ ] Build 4 mini projects
-- [ ] Be interview-ready by [your target date]
+- [ ] Be interview-ready by the end of June.
 
 ---
 
