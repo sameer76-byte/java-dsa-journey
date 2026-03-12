@@ -312,3 +312,8 @@ Operators have a defined precedence that determines the order of evaluation. Hig
 
 > [!TIP]  
 > Mastery of operators is fundamental for writing efficient and bug‑free Java code. Practice with small code snippets and edge cases.
+
+
+---
+Previous module : [[Flow of Program]]
+Next module: [[Array in Java]]
