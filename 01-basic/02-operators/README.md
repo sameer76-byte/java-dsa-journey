@@ -163,7 +163,7 @@ Work with boolean operands and produce a boolean result.
 | Operator | Description          | Example         |
 |----------|----------------------|-----------------|
 | `&&`     | Logical AND (short-circuit) | `(a > b) && (c < d)` |
-| `||`     | Logical OR (short-circuit)  | `(a > b) || (c < d)` |
+| ||     | Logical OR (short-circuit)  | (a > b) || (c < d) |
 | `!`      | Logical NOT          | `!(a > b)`      |
 
 **Short-circuiting:** In `&&`, if the left operand is `false`, the right is not evaluated. In `||`, if the left is `true`, the right is not evaluated.
