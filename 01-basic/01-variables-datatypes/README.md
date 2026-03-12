@@ -1,5 +1,3 @@
----
-
 ## Table of Contents
 - [[#📌 What is Java]]
 - [[#🧱 Java Architecture JVM JRE JDK]]
