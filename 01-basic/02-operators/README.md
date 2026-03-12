@@ -1,6 +1,6 @@
----
 
 ## Table of Contents
+
 - [[#What are Operators]]
 - [[#Classification of Operators]]
 - [[#1. Arithmetic Operators]]
